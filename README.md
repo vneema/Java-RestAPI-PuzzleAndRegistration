@@ -4,7 +4,7 @@ I am using MySQL Database with default username and password for registration an
 
 For sending the verification mail to the user I had used JavaMailSender Lib.
 
-After cloning the project in your system, Please add sender email id and password to get the email verication link and activate the account.
+After cloning the project in your system, Please add sender email id and password to get the email verification link and activate the account.
 
 To have a look to the rest api's I have also integrated Swagger-UI
 Link : http://localhost:8080/swagger-ui.html
